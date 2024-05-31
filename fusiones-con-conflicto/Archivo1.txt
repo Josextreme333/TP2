@@ -1,1 +1,3 @@
 Archivo inicial
+Cambio en branch1 - línea 1
+Cambio en branch1 - línea 2
