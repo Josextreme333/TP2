@@ -1,3 +1,8 @@
 Archivo inicial
+<<<<<<< HEAD
 Cambio en branch1 - línea 1
 Cambio en branch1 - línea 2
+=======
+Cambio en branch2 - línea 1
+Cambio en branch2 - línea 2
+>>>>>>> branch2
