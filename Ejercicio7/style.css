@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.usuario {
+    margin: 20px 0;
+}
+.tareas {
+    margin-left: 20px;
+}
+.completada {
+    color: green;
+}
+.pendiente {
+    color: red;
+}
